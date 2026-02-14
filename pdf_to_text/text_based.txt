@@ -1,0 +1,11 @@
+Malak Sobhy
+Backend Developer
+Summary
+Backend developer with experience in Node.js, Python, and database-driven systems.
+Experience
+- Backend Developer at Company X
+- Built REST APIs and authentication systems
+Skills
+Python, Node.js, PostgreSQL, REST APIs
+Education
+B.Sc. in Computer Science
